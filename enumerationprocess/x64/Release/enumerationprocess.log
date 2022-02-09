@@ -1,0 +1,10 @@
+﻿  Building 'enumerationprocess' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  源.c
+D:\windows driver\githubdemo\enumerationprocess\enumerationprocess\源.c(2,28): warning C4100: “driverobj”: 未引用的形参
+D:\windows driver\githubdemo\enumerationprocess\enumerationprocess\源.c(17,24): warning C4098: “Enumeration_Process”:“void”函数返回值
+D:\windows driver\githubdemo\enumerationprocess\enumerationprocess\源.c(26,79): warning C4047: “=”:“PEPROCESS”与“ULONGLONG”的间接级别不同
+D:\windows driver\githubdemo\enumerationprocess\enumerationprocess\源.c(29,12): warning C4098: “Enumeration_Process”:“void”函数返回值
+D:\windows driver\githubdemo\enumerationprocess\enumerationprocess\源.c(34,64): warning C4100: “seg_path”: 未引用的形参
+  enumerationprocess.vcxproj -> D:\windows driver\githubdemo\enumerationprocess\x64\Release\enumerationprocess.sys
+  Inf2Cat task was skipped as there were no inf files to process
+  
